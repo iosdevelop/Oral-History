@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wp_reset",
+				"wp_reset_query  (function)"
+			],
+			[
+				"new",
+				"newvictims"
+			],
+			[
+				"victims",
+				"victims_model"
+			],
+			[
+				"margin-",
+				"margin-left:   (property)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"browse",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"php",
+				"CI Codeintel Helper: Create IDE helper"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/sandbox/Quest Wordpress Pluggin Dev.sublime-project",
+		"/Applications/MAMP/htdocs/sandbox/wordpress/wp-admin/load-scripts.php",
+		"/Applications/MAMP/htdocs/sandbox/wordpress/wp-includes/category-template.php",
+		"/Applications/MAMP/htdocs/sandbox/wordpress/wp-includes/query.php",
+		"/Applications/MAMP/htdocs/sandbox/$_post/index.php",
+		"/Applications/MAMP/htdocs/hopes-wings/style/style.css",
+		"/Applications/MAMP/htdocs/hopes-wings/application/core/MY_Model.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/individuals/view.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/controllers/admin/individuals.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/controllers/admin/victims.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/victims/edit.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/models/individuals_model.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/models/victims_model.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/controllers/login.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/config/production/config.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/config/development/config.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/individuals/index.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/individuals/edit.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/controllers/welcome.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/controllers/user.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/individuals/addnew.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/victims/addnew.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/victims/index.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/_layout_main.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/views/layout/layout.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/login/index.php",
+		"/Users/andremorrison/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/andremorrison/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/hopes-wings/theme-docs/moodstrap/Template Files/tables.html",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/victims/viewvictims.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/victims/addnew_individuals.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/controllers/admin/dashboard.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/reports/index.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/search/index.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/victims.php",
+		"/Applications/MAMP/htdocs/hopes-wings/style/form.css",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/admin/victim.php",
+		"/Applications/MAMP/htdocs/hopes-wings/css/form.css",
+		"/Applications/MAMP/htdocs/hopes-wings/application/controllers/victim.php",
+		"/Users/andremorrison/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/jobsight/application/views/admin/components/page_head.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/views/victim.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/views/homepage.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/README.txt",
+		"/Applications/MAMP/htdocs/jobsight/application/config/development/database.php",
+		"/Applications/MAMP/htdocs/hopes-wings/application/controllers/welcome.php",
+		"/Applications/MAMP/htdocs/jobsight/application/views/admin/_layout_main.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/views/layout/homepage.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/views/welcome_message.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/application/views/layouts.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/index.php",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/composer.json",
+		"/Applications/MAMP/htdocs/codeigniter_best_practices/css/login.htm",
+		"/Users/andremorrison/Library/Application Support/Sublime Text 2/Packages/Cheater/cheat_sheets/Regular Expressions.cheatsheet",
+		"/Applications/MAMP/htdocs/codeignitor_master/index.php",
+		"/Applications/MAMP/htdocs/codeignitor_master/application/views/templates/footer.php",
+		"/Applications/MAMP/htdocs/kentucky-teleworks/application/config/config.php",
+		"/Applications/MAMP/htdocs/hopes-wings/index.php",
+		"/Applications/MAMP/htdocs/omeka213/db.ini",
+		"/Applications/MAMP/htdocs/codeignitor_master/application/config/database.php",
+		"/Applications/MAMP/htdocs/codeignitor_master/application/config/config.php",
+		"/Applications/MAMP/htdocs/codeignitor_master/user_guide/database/table_data.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$P$",
+			"widget",
+			"row",
+			"get",
+			"sess_use",
+			"slow",
+			"victim",
+			"tables",
+			"add-name",
+			".control-label",
+			"col-lg-2",
+			".col-lg-2",
+			"name",
+			"form-add-name",
+			"form-add",
+			"form-add-case",
+			"form",
+			"form-add",
+			"control",
+			"form-group",
+			"group",
+			"form",
+			"\n",
+			"widgets",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true
+}

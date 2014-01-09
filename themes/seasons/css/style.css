@@ -29,10 +29,12 @@
   body {
     font-family: "Ubuntu", sans-serif;
     font-weight: 300;
-    font-size: 16px;
+    font-size: 12px;
     line-height: 24px;
     word-wrap: break-word;
     height: 100%;
+    background-image: url(../../../files/frontpage.jpg);
+
   }
 
   a {
@@ -497,7 +499,8 @@
     width: 100%;
   }
   #content > div, #content section {
-    background-color: #fff;
+    background-color: transparent;
+    /*Make the homepage template back transparent*/
     border-style: solid;
     border-width: 10px 0 0 0;
     overflow: visible;
@@ -1179,6 +1182,7 @@
   }
 
   #simple-pages-breadcrumbs {
+    font-size: 0px;
     font-weight: bold;
     margin-bottom: 1.5em;
   }
@@ -1621,16 +1625,17 @@
     color: #f16100;
   }
   .autumn header {
-    background-color: #ce6c3e;
+    /*background-color: #ce6c3e;*/
+    background-image: url(../../../files/backgroundrepeat.jpg);
   }
   .autumn nav.top {
-    background-color: #cabfa6;
+    background-color: #5e203b;
   }
   .autumn nav.top li:hover a {
     color: #fff;
   }
   .autumn nav.top a:link, .autumn nav.top a:visited {
-    color: #be5e5e;
+    color: #fff;
   }
   .autumn nav.top a:active, .autumn nav.top a:hover {
     color: #fff;
@@ -1653,7 +1658,8 @@
   .autumn .secondary-nav .current a,
   .autumn .secondary-nav a.current,
   .autumn .exhibit-section-nav .current a {
-    background-color: #f8f1e5;
+    /*background-color: #f8f1e5;*/
+    background-image: url(../../../files/backgroundrepeat.jpg);
   }
   .autumn #home #content > div {
     border-color: #cabfa6;
@@ -1669,7 +1675,9 @@
   }
   .autumn #content > div, .autumn #content #primary > div, .autumn #content #sidebar > div,
   .autumn #content #advanced-search-form > div, .autumn #content #exhibit-pages {
-    border-color: #cabfa6;
+    border-color: transparent;
+    /*This is where we make the homepage with no background from template*/
+
   }
   .autumn #content .pagination_previous a, .autumn #content .pagination_next a {
     background-color: #86443c;
@@ -1698,10 +1706,12 @@
     background-color: #fff;
   }
   .autumn .page #content {
-    border-color: #cabfa6;
+    /*border-color: #cabfa6;*/
+    background-image: url(../../../files/backgroundrepeat.jpg);
   }
   .autumn footer {
-    background-color: #86443c;
+    /*background-color: #86443c;*/
+    background-image: url(../../../files/backgroundrepeat.jpg);
   }
   .autumn footer p {
     color: #fff;

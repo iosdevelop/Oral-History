@@ -1,0 +1,268 @@
+@charset "utf-8";
+
+body2 {
+	background-color: #fff;
+	font-size: 62.5%;
+	margin: 0;
+	padding: 0;
+}
+body2 * {
+	font-size: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+p {
+	margin-bottom: 1.1em;
+	margin-top: 0;
+}
+#main p.lastNode {
+	margin-bottom: 0;
+}
+a:link img, a:visited img {
+	border: none;
+	
+}
+div.clearFloat {
+	clear: both;
+	font-size: 0;
+	height: 0;
+	line-height: 0px;
+}
+li.clearFloat {
+	clear: both;
+}
+ul.symbolList {
+	display: inline;
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.AbsWrap {
+	position: relative;
+	width: 100%;
+}
+.rowWrap {
+	width: 100%;
+}
+#main {
+	margin: 0 auto;
+	width: 741px;
+}
+#colwrap1 {
+	float: left;
+	margin-left: 0px;
+	margin-top: -107px;
+	width: 388px;
+}
+#politics {
+	margin-left: 2px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 270px;
+	margin-bottom: 0;
+	width: 165px;
+	-webkit-transition: all 1s linear 0s;
+	-moz-transition: all 1s linear 0s;
+	-ms-transition: all 1s linear 0s;
+	-o-transition: all 1s linear 0s;
+	transition: all opacity ease-out;
+	
+	
+}
+#politics2 {
+	visibility:hidden;
+	margin-left: 2px;
+	margin-top: 0px;
+	display: none;
+	float: left;
+	height: 270px;
+	margin-bottom: 0;
+	width: 165px;
+	-webkit-transition: all 1s linear 0s;
+	-moz-transition: all 1s linear 0s;
+	-ms-transition: all 1s linear 0s;
+	-o-transition: all 1s linear 0s;
+	transition: all opacity ease-out;
+	z-index:1;
+	
+	
+}
+#business {
+	margin-left: 5px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 272px;
+	margin-bottom: 0;
+	width: 216px;
+}
+#education {
+	margin-left: 0px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 185px;
+	margin-bottom: 0;
+	width: 388px;
+}
+
+#educationAnimate1 {
+	margin-left: -113px;
+	margin-top: -15px;
+	display: inline;
+	float: left;
+	height: 185px;
+	margin-bottom: 0;
+	width: 388px;
+}
+
+#educationAnimate2 {
+	margin-left: -113px;
+	margin-top: -15px;
+	display: inline;
+	float: left;
+	height: 185px;
+	margin-bottom: 0;
+	width: 388px;
+}
+#colwrap2 {
+	float: left;
+	margin-left: 0px;
+	margin-top: -107px;
+	width: 353px;
+}
+#culture {
+	margin-left: 5px;
+	margin-top: 2px;
+	display: inline;
+	float: left;
+	height: 179px;
+	margin-bottom: 0;
+	width: 170px;
+}
+#cultureAnimation1 {
+	margin-left: 95px;
+	margin-top: -1px;
+	display: inline;
+	float: left;
+	height: 179px;
+	margin-bottom: 0;
+	width: 170px;
+}
+#cultureAnimation2 {
+	margin-left: 90px;
+	margin-top: -2px;
+	display: inline;
+	float: left;
+	height: 179px;
+	margin-bottom: 0;
+	width: 170px;
+}
+
+#people {
+	margin-left: 3px;
+	margin-top: 3px;
+	display: inline;
+	float: left;
+	height: 178px;
+	margin-bottom: 0;
+	width: 172px;
+}
+
+#people2 {
+	margin-left: 6px;
+	margin-top: 2px;
+	display: inline;
+	float: left;
+	height: 178px;
+	margin-bottom: 0;
+	width: 172px;
+}
+
+#browse {
+	margin-left: 5px;
+	margin-top: 4px;
+	display: inline;
+	float: left;
+	height: 105px;
+	margin-bottom: 0;
+	width: 348px;
+}
+#businesButton {
+	margin-left: 5px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 30px;
+	margin-bottom: 0;
+	width: 348px;
+	-webkit-transition: all 1s ease-out 0s;
+	-moz-transition: all 1s ease-out 0s;
+	-ms-transition: all 1s ease-out 0s;
+	-o-transition: all 1s ease-out 0s;
+	transition: all 1s ease-out 0s;
+}
+#cultureButton {
+	margin-left: 5px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 27px;
+	margin-bottom: 0;
+	width: 348px;
+}
+#educationButton {
+	margin-left: 5px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 28px;
+	margin-bottom: 0;
+	width: 348px;
+}
+#peopleButton {
+	margin-left: 5px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 30px;
+	margin-bottom: 0;
+	width: 348px;
+}
+#politicsButton {
+	margin-left: 5px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 53px;
+	margin-bottom: 0;
+	width: 348px;
+}
+#Berge3_r15_c6 {
+	margin-left: 393px;
+	margin-top: 0px;
+	display: inline;
+	float: left;
+	height: 1px;
+	margin-bottom: 0;
+	width: 348px;
+}
+#politics:hover {
+	position: relative;
+	background-image: -webkit-cross-fade url(http://oralhistory.eku.edu/files/csstest/Berge2_r2_c3_s2.jpg), url(http://oralhistory.eku.edu/files/csstest/politics2.jpg);
+	
+}
+
+
+#businesButton:hover {
+	background-image: url(images/businesButton_s2.jpg);
+}
+
+#people:hover {
+	position: relative;
+	background-image: -webkit-cross-fade url(http://oralhistory.eku.edu/files/csstest/images/people.jpg), url(http://oralhistory.eku.edu/files/csstest/images/people_s2.jpg);
+	
+}

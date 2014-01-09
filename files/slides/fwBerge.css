@@ -1,0 +1,135 @@
+@charset "UTF-8";
+#container {
+	padding: 0px;
+	height: 546px;
+	width: 779px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#politics {
+	margin: 0px;
+	padding: 0px;
+	height: 270px;
+	width: 165px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-left: -576px;
+	margin-top:	-100px;
+	positon: absolute;
+}
+#business {
+	padding: 0px;
+	float: left;
+	height: 272px;
+	width: 216px;
+	margin-top: -289px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 169px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: absolute;
+}
+
+#culture {
+	padding: 0px;
+	float: left;
+	height: 179px;
+	width: 170px;
+	margin-top: -287px;
+	margin-left: 390px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: absolute;
+}
+#people {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 178px;
+	width: 172px;
+	border-width: 0px;
+	border-style: solid;
+	position: relative;
+	visibility: visible;
+	z-index: auto;
+	left: 797px;
+	margin-top: -99px;
+	position: absolute;
+}
+#education {
+	margin: 0px;
+	clear: none;
+	float: left;
+	height: 185px;
+	width: 388px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: absolute;
+	visibility: visible;
+	z-index: auto;
+	margin-left: 16px;
+	margin-top: 94px;
+	
+}
+#browseBy {
+	margin: 0px;
+	padding: 0px;
+	clear: none;
+	float: left;
+	height: 274px;
+	width: 348px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	visibility: visible;
+	z-index: auto;
+	margin-left: 16px;
+	margin-top: 195px;
+	position: absoulute;
+}
+
+div.clearFloat {
+	clear: both;
+	font-size: 0;
+	height: 0;
+	line-height: 0px;
+}
+li.clearFloat {
+	clear: both;
+}

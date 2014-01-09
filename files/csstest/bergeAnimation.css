@@ -1,0 +1,194 @@
+@charset "UTF-8";
+/* CSS Document */
+	#slideshow{position:absolute;height:185px;width:385px;margin:0 auto; margin-top:-15px;}
+	#slideshow div {position:absolute;left:60;}
+	#slideshow2{position:absolute;height:170px;width:179px;margin:0 auto; margin-top:-15px;}
+	#slideshow2 div {position:absolute;left:60;}
+	#slideshow3{position:absolute;height:172px;width:178px;margin:0 auto; margin-top:-15px;}
+	#slideshow3 div {position:absolute;left:60;}
+	#slideshow4{position:relative;height:165px;width:270px;margin:0 auto; margin-top:-15px;}
+	#slideshow4 div {position:absolute;left:60;}
+
+
+	@-webkit-keyframes cf4FadeInOut {
+		0%  {opacity:1;}
+		41% {opacity:1;}
+		50% {opacity:0;}
+		91% {opacity:0;}
+		100%{opacity:1;}
+	}
+	@-moz-keyframes cf4FadeInOut {
+		0% {opacity:1;}
+		41% {opacity:1;}
+		50% {opacity:0;}
+		91% {opacity:0;}
+		100% {opacity:1;}
+	}
+	@-o-keyframes cf4FadeInOut {
+		0% {opacity:1;}
+		41% {opacity:1;}
+		50% {opacity:0;}
+		91% {opacity:0;}
+		100% {opacity:1;}
+	}
+	@keyframes cf4FadeInOut {
+		0%  {opacity:1;}
+		41% {opacity:1;}
+		50% {opacity:0;}
+		91% {opacity:0;}
+		100% {opacity:1;}
+	}
+	#slideshow div {
+	-webkit-animation-name: cf4FadeInOut;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-duration: 11s;
+
+	-moz-animation-name: cf4FadeInOut;
+	-moz-animation-timing-function: ease-in-out;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-duration: 11s;
+
+	-o-animation-name: cf4FadeInOut;
+	-o-animation-timing-function: ease-in-out;
+	-o-animation-iteration-count: infinite;
+	-o-animation-duration: 11s;
+
+	animation-name: cf4FadeInOut;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-duration: 11s;
+    }
+
+	 
+
+	#slideshow div:nth-of-type(1) {
+	-webkit-animation-delay: 5.5s;
+	-moz-animation-delay: 5.5s;
+	-o-animation-delay: 5.5s;
+	animation-delay: 5.5s;
+	}
+		
+	#slideshow div:nth-of-type(2) {
+	-webkit-animation-delay: 0s;
+	-moz-animation-delay: 0s;
+	-o-animation-delay: 0s;
+	animation-delay: 0s;
+	}
+
+	#slideshow2 div {
+	-webkit-animation-name: cf4FadeInOut;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-duration: 15s;
+
+	-moz-animation-name: cf4FadeInOut;
+	-moz-animation-timing-function: ease-in-out;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-duration: 15s;
+
+	-o-animation-name: cf4FadeInOut;
+	-o-animation-timing-function: ease-in-out;
+	-o-animation-iteration-count: infinite;
+	-o-animation-duration: 15s;
+
+	animation-name: cf4FadeInOut;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-duration: 15s;
+    }
+
+	 
+
+	#slideshow2 div:nth-of-type(1) {
+	-webkit-animation-delay: 7.5s;
+	-moz-animation-delay: 7.5s;
+	-o-animation-delay: 7.5s;
+	animation-delay: 7.5s;
+	}
+		
+	#slideshow2 div:nth-of-type(2) {
+	-webkit-animation-delay: 0s;
+	-moz-animation-delay: 0s;
+	-o-animation-delay: 0s;
+	animation-delay: 0s;
+	}
+	
+	#slideshow3 div {
+	-webkit-animation-name: cf4FadeInOut;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-duration: 25s;
+
+	-moz-animation-name: cf4FadeInOut;
+	-moz-animation-timing-function: ease-in-out;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-duration: 25s;
+
+	-o-animation-name: cf4FadeInOut;
+	-o-animation-timing-function: ease-in-out;
+	-o-animation-iteration-count: infinite;
+	-o-animation-duration: 25s;
+
+	animation-name: cf4FadeInOut;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-duration: 25s;
+    }
+
+	 
+
+	#slideshow3 div:nth-of-type(1) {
+	-webkit-animation-delay: 10.5s;
+	-moz-animation-delay: 10.5s;
+	-o-animation-delay: 10.5s;
+	animation-delay: 10.5s;
+	}
+		
+	#slideshow3 div:nth-of-type(2) {
+	-webkit-animation-delay: 0s;
+	-moz-animation-delay: 0s;
+	-o-animation-delay: 0s;
+	animation-delay: 0s;
+	}
+
+
+
+
+#slideshow4 div {
+	-webkit-animation-name: cf4FadeInOut;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-duration: 25s;
+
+	-moz-animation-name: cf4FadeInOut;
+	-moz-animation-timing-function: ease-in-out;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-duration: 25s;
+
+	-o-animation-name: cf4FadeInOut;
+	-o-animation-timing-function: ease-in-out;
+	-o-animation-iteration-count: infinite;
+	-o-animation-duration: 25s;
+
+	animation-name: cf4FadeInOut;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-duration: 25s;
+    }
+
+	 
+
+	#slideshow4 div:nth-of-type(1) {
+	-webkit-animation-delay: 10.5s;
+	-moz-animation-delay: 10.5s;
+	-o-animation-delay: 10.5s;
+	animation-delay: 10.5s;
+	}
+		
+	#slideshow4 div:nth-of-type(2) {
+	-webkit-animation-delay: 0s;
+	-moz-animation-delay: 0s;
+	-o-animation-delay: 0s;
+	animation-delay: 0s;
+	}
